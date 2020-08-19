@@ -1,0 +1,3 @@
+include ':litepermission'
+include ':app'
+rootProject.name = "LitePermission"
